@@ -4,4 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ArtisanDream/CharacterScripts/Resources/ExampleScenes/PlayerOneConfig.unity
+    guid: 70ae505d8420843e7b081536e09c5cea
+  m_configObjects: {}

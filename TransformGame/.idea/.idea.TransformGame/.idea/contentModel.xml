@@ -53,16 +53,23 @@
               </e>
             </e>
             <e p="Scripts" t="Include">
+              <e p="BoolDoubleJump.cs" t="Include" />
               <e p="BoolInput.cs" t="Include" />
+              <e p="BoolInputWithCoroutine.cs" t="Include" />
               <e p="CharacterMove.cs" t="Include" />
+              <e p="Coroutines.cs" t="Include" />
               <e p="FloatConstant.cs" t="Include" />
               <e p="FloatInput.cs" t="Include" />
               <e p="FloatVariable.cs" t="Include" />
+              <e p="IMove.cs" t="Include" />
               <e p="InputBase.cs" t="Include" />
               <e p="MovePattern.cs" t="Include" />
               <e p="MovePatternBase.cs" t="Include" />
-              <e p="MovePatternNotGrounded.cs" t="Include" />
-              <e p="MovePatternWithIsGrounded.cs" t="Include" />
+              <e p="MoveStlyeIsGroundedElse.cs" t="Include" />
+              <e p="MoveStyle.cs" t="Include" />
+              <e p="MoveStyleBase.cs" t="Include" />
+              <e p="MoveStyleDoubleJump.cs" t="Include" />
+              <e p="MoveStyleIsGrounded.cs" t="Include" />
               <e p="Player.cs" t="Include" />
               <e p="PlayerMoveBehaviour.cs" t="Include" />
               <e p="PlayerStateBehaviour.cs" t="Include" />
@@ -168,6 +175,7 @@
             </e>
           </e>
         </e>
+        <e p="AssetSearch.cs" t="Include" />
         <e p="Plugins" t="Include">
           <e p="Editor" t="Include">
             <e p="JetBrains" t="Include">
